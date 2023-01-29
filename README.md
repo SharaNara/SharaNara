@@ -1,6 +1,5 @@
 # Hi there 👋
 🤔 how'd this manage to get here?
-I'm a college student at Johnson County Community College currently working to get my Computer Science degree.
 
 <!--
 **SharaNara/SharaNara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
