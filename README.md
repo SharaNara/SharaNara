@@ -1,6 +1,8 @@
 # Hi there 👋
-🤔 how'd this manage to get here?
+🤔 how'd this manage to get here?    
 
+💻 CS Student  
+🏳️‍⚧️ she/her
 <!--
 **SharaNara/SharaNara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
